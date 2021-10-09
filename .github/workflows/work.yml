@@ -2,7 +2,7 @@ name: Fudan Daily
 
 on:
   schedule:
-    - cron: '00 31 * * *'
+    - cron: '00 14 * * *'
   workflow_dispatch:
 
 jobs:
